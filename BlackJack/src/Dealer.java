@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Dealer {
 	Random rand = new Random();
-	
+	 
 	private int card1;
 	private int card2;
 	
