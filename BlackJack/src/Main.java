@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
-		
+		 
 		System.out.println("Welcome to the simplified BlackJack game !!\n");
 		Player player = new Player();
 		System.out.println("You get a " + player.getCard1() +
