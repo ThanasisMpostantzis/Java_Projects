@@ -2,6 +2,7 @@ package ticTacTow;
 import java.util.Scanner;
 
 
+
 public class Player {
 
 	private String[] array;
