@@ -1,1 +1,1 @@
-# In this Repository you will see personal Java Projects.
+# In this Repository you will find mini personal Java Projects.
