@@ -1,0 +1,7 @@
+Fleet's name: Hrakleio
+Drivers name: thanasis -Drivers Plate: XYS771 -Drivers Consumption: 2800.0
+Drivers name: George -Drivers Plate: EPO971 -Drivers Consumption: 900.0
+Drivers name: Panos -Drivers Plate: XYS981 -Drivers Consumption: 3500.0
+Drivers name: John -Drivers Plate: EPO111 -Drivers Consumption: 1157.142857142857
+
+Total consumption: 8357.142857142857
